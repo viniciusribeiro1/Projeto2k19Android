@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo1</string>
+    <string name="hint_nome">Insira seu nome</string>
+    <string name="informe_sobrenome">Informe Sobrenome</string>
+    <string name="hint_Sobrenome">Informe Sobrenome</string>
+    <string name="hint_Email">Infome E-mail</string>
+    <string name="hint_Telefone">Informe Telefone</string>
+    <string name="btn_adicionar">adicionar</string>
+</resources>
